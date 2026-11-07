@@ -1,0 +1,1 @@
+--thread that reads the videostream from the camera
